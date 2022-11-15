@@ -1,0 +1,32 @@
+.post-form-container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  row-gap: 16px;
+}
+
+.title-input {
+  width: 40%;
+  padding: 5px 8px;
+  border-radius: 3px;
+  border: none;
+}
+
+.body-input {
+  width: 40%;
+  height: 50px;
+  padding: 10px 8px;
+  border-radius: 3px;
+  resize: none;
+  border: none;
+}
+
+.submit-btn {
+    background-color: greenyellow;
+    padding: 10px 16px;
+    border-radius: 3px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+}
