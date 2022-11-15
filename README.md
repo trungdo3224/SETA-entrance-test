@@ -1,7 +1,7 @@
 # SETA-entrance-test
 
 ### Javascript algorithm solution description.
-#### Problem 1: Provide an array of strings, eg: [‘a’, ‘ab’, ‘abc’, ‘cd’, ‘def, ‘gh’]. Write a function to
+### Problem 1: Provide an array of strings, eg: [‘a’, ‘ab’, ‘abc’, ‘cd’, ‘def, ‘gh’]. Write a function to
 find the strings’ length that appear most in this array. Writing the unit test function
 and provide some test-cases. The result for example array is [‘ab’, ‘cd’, ‘gh’].
 
@@ -22,7 +22,7 @@ and provide some test-cases. The result for example array is [‘ab’, ‘cd’
 - Step 5: Init a new array from the input array with only strings that has the length equal to the most frequent length found in step 4 and return the new array.
    
    
-#### Problem 2: Provide an array of integers, eg: [1, 4, 2, 3, 5]. Write a function to find sum of
+### Problem 2: Provide an array of integers, eg: [1, 4, 2, 3, 5]. Write a function to find sum of
 integers on top 2. Writing the unit test function and provide some test-cases. The
 result for the example array is 9
 
