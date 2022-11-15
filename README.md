@@ -19,7 +19,7 @@ and provide some test-cases. The result for example array is [‘ab’, ‘cd’
    --> Find the most frequent value in the array.
    
 - Step 4: Find the most frequent length of the map by the frequent value found in step 3.
-- Step 5: Init a new array from the input array with only string has the length of most frequent length found in step 4 and return the new array.
+- Step 5: Init a new array from the input array with only strings that has the length equal to the most frequent length found in step 4 and return the new array.
    
    
 #### Problem 2: Provide an array of integers, eg: [1, 4, 2, 3, 5]. Write a function to find sum of
