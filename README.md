@@ -35,6 +35,8 @@ result for the example array is 9
 - Step 4: Return sum of the first 2 elements.
 
 #### React App:
+- Create a redux store with @reduxjs/toolkit
+- Wrapped App component with react-redux provider and store prop.
 - Using @reduxjs/toolkit to fetch data from the given API.
 - Dispatch action to add all fetch posts data to the posts state.
 - Submit form and dispatch action to add a new post and update the posts state.
